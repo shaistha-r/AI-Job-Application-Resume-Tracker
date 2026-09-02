@@ -18,7 +18,8 @@ A full-stack Flask application for tracking jobs and applications, managing resu
 
 ## Screenshots
 
-![AI Job Application & Resume Tracker](screenshots/project-screenshots.png)
+![AI Job Application & Resume Tracker](screenshots/project_screenshot.png)
+
 
 ## Project Objective
 
