@@ -16,6 +16,10 @@ A full-stack Flask application for tracking jobs and applications, managing resu
 - Dashboard statistics
 - Automated tests
 
+## Screenshots
+
+![AI Job Application & Resume Tracker](screenshots/project-screenshots.png)
+
 ## Project Objective
 
 The objective of this project is to provide a centralized platform for managing the job-search process.
@@ -58,7 +62,7 @@ View Dashboard Statistics
 
 ---
 
-## 🟦 BLOCK 5 — Job Matching System
+## Job Matching System
 
 This is one of the **most important sections** because it explains your actual matching logic.
 
